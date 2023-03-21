@@ -1,0 +1,30 @@
+body{
+    background: url(./rajesh-ram-HOOKgN_zIY8-unsplash.jpg);
+    background-size: cover;
+}
+.main{
+    color: white;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+
+
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    margin: 1em;
+}
+nav:hover{
+    /* background-color: burlywood;    text-decoration: underline; */
+    text-decoration-thickness: 5px;
+    margin: -4px 4px;
+    
+    /* border: 2px solid blue; */
+    border-radius: 6px;
+    text-decoration: underline;
+    /* width: 2px; */
+}
